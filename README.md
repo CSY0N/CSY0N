@@ -25,7 +25,7 @@ export default class MyProfile {
       "Fullstack Web", "NodeJS",
       "Lua", "Python", "PHP",
       "VueJS", "Electron JS",
-      "ReactJS", Lua Scripting,
+      "ReactJS", "Lua Scripting",
       "and much more"
     ];
   }
