@@ -37,7 +37,7 @@ export default class MyProfile {
     return {
       "Github": "https://github.com/CSY0N",
       "unknowncheats"  : "https://www.unknowncheats.me/forum/members/3381795.html",
-      "Discord": "csyon_racoon"
+      "Discord": "k1ngd3v_csyon"
     }
   }
 
