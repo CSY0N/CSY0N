@@ -59,7 +59,6 @@ export default class MyProfile {
 ```
 
 <h3 align="left">Contact info:</h3>
-<p align="left">
 <a href="https://discord.com/users/1072496057243672586" target="blank"><img align="center" src="https://raw.githubusercontent.com/CSY0N/CSY0N/tree/main/img/discord.png" alt="l7neg" height="30" width="40" /></a>
 <a href="https://www.unknowncheats.me/forum/members/3381795.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/CSY0N/CSY0N/tree/main/img/ukc.png" alt="l7neg" height="30" width="40" /></a>
 </p>  
