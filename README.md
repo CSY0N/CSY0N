@@ -68,8 +68,8 @@ export default class MyProfile {
 CSY0N/CSY0N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-```
+
 <h3 align="left">Discord Server</h3>
 <p align="left">
- <a href="https://discord.gg/QCpWmkkhdR" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/discord.png" alt="Csyon" height="30" width="40" /></a>
+ <a href="https://discord.gg/QCpWmkkhdR" target="blank"><img align="center" src="https://github.com/CSY0N/CSY0N/blob/main/img/discord.png" alt="Csyon" height="30" width="40" /></a>
 </p>
