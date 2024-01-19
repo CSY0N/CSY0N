@@ -50,7 +50,7 @@ export default class MyProfile {
   }
 }
 ```
-<h1  align="center"> <a href="https://ghrmt.vercel.app"><img src="https://ghrmt.vercel.app?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=435&lines=L7NEG" alt="# 🤹 About ME" /></a></h1>
+<h1  align="center"> <a href="https://ghrmt.vercel.app"><img src="https://ghrmt.vercel.app?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=435&lines=# 🤹 About ME" alt="# 🤹 About ME" /></a></h1>
 
 ```
 - 👋 Hi, I’m @CSY0N
