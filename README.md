@@ -1,3 +1,4 @@
+[![Discord Server](https://img.shields.io/discord/1025804814183047218?color=5865F2&label=L7NEG%20Community%20Discord&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/QCpWmkkhdR)
 ```js
 export default class MyProfile {
   constructor() { }
@@ -49,15 +50,27 @@ export default class MyProfile {
   }
 }
 ```
-## 🤹 About ME
+<h1  align="center"> <a href="https://ghrmt.vercel.app"><img src="https://ghrmt.vercel.app?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=435&lines=L7NEG" alt="# 🤹 About ME" /></a></h1>
+
 ```
 - 👋 Hi, I’m @CSY0N
 - 👀 I’m interested in Scripting and Programming
 - 🌱 I’m currently nothing learning
 - 📫 How to reach me on Discord or on Unknowncheats
 ```
+
+<h3 align="left">Contact info:</h3>
+<p align="left">
+<a href="https://discord.com/users/1072496057243672586" target="blank"><img align="center" src="https://raw.githubusercontent.com/CSY0N/CSY0N/tree/main/img/discord.png" alt="l7neg" height="30" width="40" /></a>
+<a href="https://www.unknowncheats.me/forum/members/3381795.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/CSY0N/CSY0N/tree/main/img/ukc.png" alt="l7neg" height="30" width="40" /></a>
+</p>  
+
 <!---
 CSY0N/CSY0N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ```
+<h3 align="left">Discord Server</h3>
+<p align="left">
+ <a href="https://discord.gg/QCpWmkkhdR" target="blank"><img align="center" src="https://raw.githubusercontent.com/L7NEG/L7NEG/main/img/discord.png" alt="Csyon" height="30" width="40" /></a>
+</p>
