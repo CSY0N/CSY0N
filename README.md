@@ -1,4 +1,4 @@
-[![Discord Server](https://img.shields.io/discord/1025804814183047218?color=5865F2&label=L7NEG%20Community%20Discord&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/QCpWmkkhdR)
+[![Discord Server](https://img.shields.io/discord/1025804814183047218?color=5865F2&label=CSY0N%20Community%20Discord&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/QCpWmkkhdR)
 ```js
 export default class MyProfile {
   constructor() { }
@@ -50,7 +50,7 @@ export default class MyProfile {
   }
 }
 ```
-<h1  align="center"> <a href="https://ghrmt.vercel.app"><img src="https://ghrmt.vercel.app?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=435&lines=🤹 About ME" alt="🤹 About ME" /></a></h1>
+## 🤹 About ME
 ```
 - 👋 Hi, I’m @CSY0N
 - 👀 I’m interested in Scripting and Programming
